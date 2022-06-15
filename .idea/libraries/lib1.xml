@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hibernate_Home_Work/out/production/hibernate_home_work_danu_sir/lk/ijse/hibernate/lib/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Hibernate_Home_Work/out/production/hibernate_home_work_danu_sir/lk/ijse/hibernate/lib/mysql-connector-java-8.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
